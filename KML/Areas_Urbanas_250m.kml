@@ -1,0 +1,9069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Areas_Urbanas_250m.kml</name>
+	<Style id="PolyStyle50">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer5">
+		<name>Areas_Urbanas_250m</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_50000">
+			<name>AU ARA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU ARA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU ARA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,020594</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.70006365899997,-26.37067184299997,0 -48.69486252499996,-26.37046411599994,0 -48.69569912299994,-26.36995536099994,0 -48.69573086899992,-26.36940784699993,0 -48.69601889599993,-26.36885741399993,0 -48.69689512299993,-26.36773056799996,0 -48.69725867899996,-26.36743478899996,0 -48.69817009399998,-26.36711145399994,0 -48.69808708899996,-26.36810310199996,0 -48.69850631399999,-26.36826562499994,0 -48.698894259,-26.36828596299995,0 -48.69911106699993,-26.36812395099997,0 -48.69914412999998,-26.36771064199996,0 -48.69928614299994,-26.36666916799993,0 -48.69936128499995,-26.36623634199998,0 -48.69966106399994,-26.36621334299997,0 -48.70011782299998,-26.36602730299995,0 -48.70044917099995,-26.36609752899994,0 -48.70040042299997,-26.36651156099998,0 -48.70065289199993,-26.36669217199994,0 -48.70076254899993,-26.36704694899993,0 -48.70090629199996,-26.36754274299994,0 -48.70110304299993,-26.36762737999993,0 -48.70111715699995,-26.36804305799996,0 -48.70094143599994,-26.36885966199998,0 -48.70079123699998,-26.36952146599998,0 -48.70064133399995,-26.36970487499997,0 -48.70039486799994,-26.37009998399998,0 -48.70029063799996,-26.37009993799995,0 -48.70019932199995,-26.37013526399994,0 -48.70017754899993,-26.37017052999994,0 -48.70016215699998,-26.37029326599998,0 -48.70015342399995,-26.37036290299994,0 -48.70014040799999,-26.37046668599993,0 -48.70012534999995,-26.37058675799995,0 -48.70012107199995,-26.37062086599997,0 -48.70006365899997,-26.37067184299997,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50001">
+			<name>AU SFS SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU SFS SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU SFS SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,004824</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.65605152199998,-26.34915829299996,0 -48.65605122799996,-26.34908265099995,0 -48.65603776199999,-26.34904388599995,0 -48.65602411399994,-26.34897945399996,0 -48.65602384899996,-26.34892821499994,0 -48.65603694999999,-26.34886455299994,0 -48.65603671499997,-26.34881274499998,0 -48.65604987799998,-26.34873529799995,0 -48.65606322499997,-26.34868359499995,0 -48.65609024799994,-26.34864558699997,0 -48.65611733599998,-26.34855433699994,0 -48.65617207899993,-26.34845036499996,0 -48.65619969899997,-26.34838446999993,0 -48.65622743499994,-26.34833175899996,0 -48.65622761599997,-26.34829090499994,0 -48.65625554499997,-26.34823772199997,0 -48.65628371399998,-26.34817047799993,0 -48.65629791799995,-26.34812977099995,0 -48.65631240799996,-26.34806106499997,0 -48.65631298699998,-26.34799114399993,0 -48.65636961099996,-26.34793798599998,0 -48.65641245099994,-26.34788377599995,0 -48.65645551299997,-26.34782928399994,0 -48.65651344299994,-26.34774662399997,0 -48.65657068099995,-26.34772101799996,0 -48.65662709999998,-26.34773852899997,0 -48.65668308799997,-26.34777035499997,0 -48.65673971899997,-26.34777348399996,0 -48.65682466499993,-26.34777817699995,0 -48.65696624299994,-26.34778599899994,0 -48.65702287399995,-26.34778912799993,0 -48.65715029299997,-26.34779616699996,0 -48.65722108199997,-26.34780007799998,0 -48.65727548499996,-26.34784604099997,0 -48.65731404399998,-26.34791939799993,0 -48.65752668099998,-26.34876444899993,0 -48.65605152199998,-26.34915829299996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50002">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,003033</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.91230253299995,-26.38139109699995,0 -48.91254112999997,-26.38161290599993,0 -48.91254363899998,-26.38198401599993,0 -48.91258210899997,-26.38207034799996,0 -48.91247046699995,-26.38228656799998,0 -48.91245009499994,-26.38239298999997,0 -48.91243850799998,-26.38239823999993,0 -48.91219569899994,-26.38246074299997,0 -48.91206680599998,-26.38235625799996,0 -48.91204240199994,-26.38224337999998,0 -48.91204292499998,-26.38222698499993,0 -48.91204468299998,-26.38217183599994,0 -48.91201052099996,-26.38194920899997,0 -48.91219252899998,-26.38184210299994,0 -48.91220148199993,-26.38165736499997,0 -48.91220331999995,-26.38161942399995,0 -48.91206999399998,-26.38137779299996,0 -48.91218230399994,-26.38126202299998,0 -48.91230253299995,-26.38139109699995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50003">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,003645</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.87758754799995,-26.35367498299996,0 -48.87654276599995,-26.35377544599993,0 -48.87654604499994,-26.35352408599994,0 -48.87624113799996,-26.35295463099993,0 -48.87732683099994,-26.35313790799995,0 -48.87758754799995,-26.35367498299996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50004">
+			<name>AU BBS SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU BBS SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU BBS SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,041378</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.68533926699996,-26.36994816699996,0 -48.68524996699995,-26.36994325299997,0 -48.68511601799997,-26.36993588199994,0 -48.68498206799995,-26.36992851099996,0 -48.68495974299998,-26.36992728199994,0 -48.68471730099998,-26.36989334999993,0 -48.68460562799999,-26.36988720399995,0 -48.68451628899992,-26.36988228699994,0 -48.68438526799996,-26.36985446799997,0 -48.68416182399994,-26.36984216999997,0 -48.68407244599997,-26.36983724999993,0 -48.68380431399999,-26.36982249199997,0 -48.68367024799994,-26.36981511299996,0 -48.68346656699998,-26.36982450999994,0 -48.68333256099999,-26.36981713299997,0 -48.68322088899998,-26.36981098599995,0 -48.68301987999996,-26.36979991999993,0 -48.68290820899995,-26.36979377299997,0 -48.68279653699995,-26.36978762499996,0 -48.68266253199995,-26.36978024699994,0 -48.68255086099999,-26.36977409899998,0 -48.68232751799997,-26.36976180199997,0 -48.68205950799995,-26.36974704599993,0 -48.68183616699997,-26.36973474799994,0 -48.68174682999996,-26.36972982899994,0 -48.68159049099995,-26.36972121999997,0 -48.68132248199999,-26.36970646099996,0 -48.68105447299997,-26.36969170199996,0 -48.68096513699993,-26.36968678199997,0 -48.68078646399993,-26.36967694199996,0 -48.68069712799996,-26.36967202099993,0 -48.68049612199997,-26.36966094999997,0 -48.68038323099995,-26.36967532299997,0 -48.68031625899994,-26.36967163399993,0 -48.68015886899996,-26.36968353699997,0 -48.68002498299995,-26.36967616299995,0 -48.67991341099998,-26.36967001699998,0 -48.67980183999998,-26.36966387099994,0 -48.67964563899994,-26.36965526599994,0 -48.67953406799995,-26.36964911999996,0 -48.67940018199994,-26.36964174399998,0 -48.67924398099996,-26.36963313899997,0 -48.67908842899993,-26.36960399699996,0 -48.67895448399997,-26.36959661799995,0 -48.67873124199997,-26.36958431799997,0 -48.67855264799995,-26.36957447799995,0 -48.67835173099996,-26.36956340699993,0 -48.67821778499996,-26.36955602699993,0 -48.67817313699993,-26.36955356599998,0 -48.67806151499997,-26.36954741599993,0 -48.67790524599997,-26.36953880399994,0 -48.67779370199997,-26.36951206699996,0 -48.67781647299995,-26.36941009599997,0 -48.67783895499997,-26.36939063499995,0 -48.67795180799993,-26.36927226799998,0 -48.67806526299995,-26.36915326899998,0 -48.67822609899996,-26.36890961199998,0 -48.67836457199996,-26.36874738399996,0 -48.67866977799996,-26.36831245999997,0 -48.67874009699995,-26.36825109699993,0 -48.67921601799998,-26.36777119799996,0 -48.67933834999997,-26.36759938299997,0 -48.67936727399995,-26.36744365799996,0 -48.67942149799995,-26.36724287799996,0 -48.67947099999999,-26.36717730299995,0 -48.67949973699997,-26.36704171099996,0 -48.67955045699996,-26.36695262799998,0 -48.67964771699997,-26.36688885299998,0 -48.67979259199996,-26.36682750699998,0 -48.68003722499998,-26.36667845999995,0 -48.68016074299993,-26.36659191199993,0 -48.68028472599997,-26.36650503799996,0 -48.68035882399994,-26.36646213499995,0 -48.68045560499996,-26.36644394099994,0 -48.68057775899996,-26.36640355099996,0 -48.68067478199998,-26.36638530299996,0 -48.68087063999997,-26.36632517999993,0 -48.68087371999998,-26.36627796399995,0 -48.68059179899996,-26.36616739499993,0 -48.68055492899998,-26.36597419399993,0 -48.68060462799996,-26.36554142299997,0 -48.68065666599995,-26.36507633399998,0 -48.68074085899997,-26.36490638399994,0 -48.68077007399995,-26.36483280599998,0 -48.68079782299997,-26.36478408599993,0 -48.68097546299998,-26.36471831499995,0 -48.68107768899995,-26.36467345099993,0 -48.68122963499997,-26.36463122699996,0 -48.68143705899997,-26.36451573399995,0 -48.68156891499996,-26.36442101299997,0 -48.68162062099998,-26.36439830099994,0 -48.68169727299994,-26.36437693899995,0 -48.68173025799995,-26.36427616899994,0 -48.68215844599996,-26.36396352599996,0 -48.68231839799995,-26.36386800499997,0 -48.68237106899993,-26.36384475799997,0 -48.68243818299994,-26.36366469499995,0 -48.68244058999994,-26.36363847199993,0 -48.68245265999997,-26.36350695899995,0 -48.68248774099993,-26.36340267199995,0 -48.68259926099995,-26.36330216399995,0 -48.68262189499995,-26.36306187799994,0 -48.68265252699995,-26.36300959299996,0 -48.68273700899994,-26.36293307999995,0 -48.68288105699998,-26.36277793899996,0 -48.68290943399995,-26.36275222599994,0 -48.68307752299995,-26.36262468599995,0 -48.68320921699996,-26.36260449199995,0 -48.68345315199997,-26.36250786799997,0 -48.68355952599995,-26.36248613999993,0 -48.68363707099996,-26.36249040699994,0 -48.68392140399994,-26.36250605399994,0 -48.68402479799994,-26.36251174299997,0 -48.68423834999993,-26.36246824299997,0 -48.68434528999995,-26.36244645999994,0 -48.68442295499996,-26.36245073299995,0 -48.68455239599996,-26.36245785399996,0 -48.68477806499993,-26.36252557499995,0 -48.68489992999997,-26.36258747299996,0 -48.68495160099997,-26.36259031599997,0 -48.68516101299997,-26.36276674099997,0 -48.68523828299993,-26.36277099099993,0 -48.68535131999995,-26.36288658699993,0 -48.68545015899997,-26.36291929799995,0 -48.68569067799995,-26.36304135099994,0 -48.68583618499997,-26.36310359999993,0 -48.68608803299999,-26.36314453199998,0 -48.6861861,-26.36317697999994,0 -48.68621120199999,-26.36334011499997,0 -48.68616414899998,-26.36347157699993,0 -48.68624424299998,-26.36360935799996,0 -48.68608759099993,-26.36378634899995,0 -48.68572731999997,-26.36413387399995,0 -48.68533946799994,-26.36452614799998,0 -48.68510691999995,-26.36474315499993,0 -48.68493295899998,-26.36491091999994,0 -48.68483053699998,-26.36493051999997,0 -48.68460553799996,-26.36511913199996,0 -48.68434472599995,-26.36540334899996,0 -48.68423403399999,-26.36549601199994,0 -48.68396221499996,-26.36570185999995,0 -48.68342833999998,-26.36608438299993,0 -48.68313144899997,-26.36635479799998,0 -48.68302269799996,-26.36646733199996,0 -48.68296977899996,-26.36651166999997,0 -48.68278778099995,-26.36664287099995,0 -48.68270906999992,-26.36670884899996,0 -48.68265671999995,-26.36675272999997,0 -48.68253087999995,-26.36681578299994,0 -48.68237498999997,-26.36694657199996,0 -48.68229956099998,-26.36698870199997,0 -48.68222212199999,-26.36705370199996,0 -48.68214279099993,-26.36714138199994,0 -48.68203405299994,-26.36729565699994,0 -48.68200646999998,-26.36733973599996,0 -48.68192601999994,-26.36744893099996,0 -48.68179725999994,-26.36757749699996,0 -48.68176814599998,-26.36764343999994,0 -48.68164590999999,-26.36770406899996,0 -48.68156691699994,-26.36781157299998,0 -48.68150969699997,-26.36794196899996,0 -48.68148120399997,-26.36800689899997,0 -48.68108225499998,-26.36838011599997,0 -48.68158742799995,-26.36840793599998,0 -48.68182086599996,-26.36837719899995,0 -48.68188400399998,-26.36844603199995,0 -48.68192404899997,-26.36851341499994,0 -48.68203065899996,-26.36860591399994,0 -48.68214301099993,-26.36863370899994,0 -48.68221161799995,-26.36863748599996,0 -48.68236312499994,-26.36873206599995,0 -48.68243160799995,-26.36873583699997,0 -48.68256857599993,-26.36874337699993,0 -48.68265988699994,-26.36874840499996,0 -48.68281968199996,-26.36875720199998,0 -48.68295905899998,-26.36874334399995,0 -48.68309608899995,-26.36875088699998,0 -48.68314675499994,-26.36871055699993,0 -48.683225463,-26.36862841699997,0 -48.68341461799997,-26.36839940699997,0 -48.68360020699998,-26.36821193999998,0 -48.68364918099996,-26.36819257099995,0 -48.68381952099998,-26.36813562999998,0 -48.68391212799997,-26.36814072699998,0 -48.68408010399998,-26.36810565899998,0 -48.68420199999997,-26.36806797399993,0 -48.68426056599998,-26.36798216599993,0 -48.68431934799997,-26.36789604099994,0 -48.68440792799999,-26.36776625699997,0 -48.68442047999997,-26.36767676099993,0 -48.68448948399999,-26.36752192499995,0 -48.68452255099999,-26.36745544299998,0 -48.68455152399997,-26.36725098599993,0 -48.68456447899996,-26.36715956299997,0 -48.68457097399993,-26.36711372399998,0 -48.68465448499995,-26.36686268299997,0 -48.68471873699997,-26.36674914399998,0 -48.684738865,-26.36660903199993,0 -48.68482420199997,-26.36651913499998,0 -48.68486186899996,-26.36642625499997,0 -48.68501341999996,-26.36621962799995,0 -48.68504105599993,-26.36619714999995,0 -48.68516627699995,-26.36601122099995,0 -48.68520863399994,-26.36589228799994,0 -48.68529983699995,-26.36577545899996,0 -48.68542337899999,-26.36561068199995,0 -48.68555543899998,-26.36539564199995,0 -48.68562508899998,-26.36542426999995,0 -48.68581709799997,-26.36545960399997,0 -48.68589055499996,-26.36546364399993,0 -48.68605378999996,-26.36552209499996,0 -48.68621255999994,-26.36560485699994,0 -48.68626141299995,-26.36560754399994,0 -48.68643554399996,-26.36574002799995,0 -48.68650436799993,-26.36576832299994,0 -48.68664615999995,-26.36580060799997,0 -48.68678340799994,-26.36585705899995,0 -48.68685637199997,-26.36586107099998,0 -48.68697797799996,-26.36586775799998,0 -48.68714822599998,-26.36587711999994,0 -48.68717848899996,-26.36597630899996,0 -48.68714193999995,-26.36616822899998,0 -48.68709963399994,-26.36626231199995,0 -48.68708608699996,-26.36633363299995,0 -48.68704120699994,-26.36656990399996,0 -48.68701448299997,-26.36671059399998,0 -48.68698790999997,-26.36685048699997,0 -48.68694647199993,-26.36694200099993,0 -48.68674547699992,-26.36711747699997,0 -48.68655850799996,-26.36722306599995,0 -48.68645559799995,-26.36726360299997,0 -48.68642784399997,-26.36728514199996,0 -48.68650990199996,-26.36735872499997,0 -48.68664305699997,-26.36741198799996,0 -48.68662627199997,-26.36750268599997,0 -48.68655428399995,-26.36763552099995,0 -48.68648269499994,-26.36776761899995,0 -48.68635275199995,-26.36796311399996,0 -48.68628221099993,-26.36809339699994,0 -48.68620812499995,-26.36824491499993,0 -48.68611918099997,-26.36835054999995,0 -48.68605369999995,-26.36845697199993,0 -48.68599232299994,-26.36854125399998,0 -48.68591234199994,-26.36873292499996,0 -48.68590483599996,-26.36877586599996,0 -48.68560595999998,-26.36944256399994,0 -48.68542000899998,-26.36987013799995,0 -48.68533926699996,-26.36994816699996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50005">
+			<name>AU ARA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU ARA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU ARA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,034415</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.74088366399997,-26.39751584899994,0 -48.73772666599996,-26.39304637599997,0 -48.73785794899994,-26.39275939499993,0 -48.73734744899997,-26.39205499099995,0 -48.73667687399995,-26.39135888999994,0 -48.73703138399998,-26.39095638599997,0 -48.73705899699997,-26.39132835699996,0 -48.73710162399993,-26.39160349599996,0 -48.73752772399996,-26.39208485999995,0 -48.73777449899995,-26.39196563799993,0 -48.73846719999995,-26.39163454699997,0 -48.73810609399993,-26.38973881899995,0 -48.73833217699996,-26.38957392699996,0 -48.73922191299994,-26.39009843999997,0 -48.73965297399997,-26.39013102399997,0 -48.73955531399997,-26.38944170699995,0 -48.73964988099993,-26.38880074199994,0 -48.74271589599994,-26.38944314799995,0 -48.74395770199993,-26.38980717799996,0 -48.74264201399996,-26.39255846799995,0 -48.74257360199994,-26.39304860799996,0 -48.74222678699994,-26.39361171799994,0 -48.74276957299998,-26.39375055899996,0 -48.74283413699994,-26.39399790699997,0 -48.74298252699998,-26.39426953799995,0 -48.74196238899998,-26.39501191199997,0 -48.74153612099997,-26.39562856399994,0 -48.74185517299998,-26.39600528799997,0 -48.74205060999998,-26.39615413299998,0 -48.74245530899998,-26.39625289299994,0 -48.74323460299996,-26.39545121799995,0 -48.74361892799993,-26.39573052799995,0 -48.743574181,-26.39627793399995,0 -48.74334450699996,-26.39671526399997,0 -48.74296973899993,-26.39652183899995,0 -48.74264171899996,-26.39625297199996,0 -48.74247130399994,-26.39600555099997,0 -48.74088366399997,-26.39751584899994,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50006">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002472</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.87846530799994,-26.35219432599996,0 -48.87845535699995,-26.35260642399993,0 -48.87766487899996,-26.35260659899996,0 -48.87766627099995,-26.35213865499998,0 -48.87846530799994,-26.35219432599996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50007">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002396</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.91324898299996,-26.38298648699998,0 -48.91322592299997,-26.38289635999996,0 -48.91317214499998,-26.38278828399996,0 -48.91307192999994,-26.38279902099998,0 -48.91292677399997,-26.38284135099997,0 -48.91278751699997,-26.38283443099994,0 -48.91269637699998,-26.38261443399995,0 -48.91269541399998,-26.38260287899993,0 -48.91267162999998,-26.38248825999995,0 -48.91277026699999,-26.38241844899994,0 -48.91299242499997,-26.38234229499994,0 -48.91304707499995,-26.38231206899997,0 -48.91309866799999,-26.38229025199996,0 -48.91315441899997,-26.38226824699996,0 -48.91335153899996,-26.38255182599994,0 -48.91332389999997,-26.38268976799998,0 -48.91337568199999,-26.38273765399998,0 -48.91336731799999,-26.38287919499993,0 -48.91338503499998,-26.38290986399994,0 -48.91324898299996,-26.38298648699998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50008">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,005658</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.91669946799993,-26.38745008099994,0 -48.91660441399994,-26.38740205699997,0 -48.91647807399994,-26.38732825599993,0 -48.91642312799996,-26.38730317999995,0 -48.91630286399993,-26.38717014699995,0 -48.91607167499996,-26.38681400799993,0 -48.91601781199995,-26.38672626199997,0 -48.91598589799997,-26.38671287699998,0 -48.91596188399996,-26.38669942399997,0 -48.91594615599995,-26.38657064399996,0 -48.91590463699998,-26.38647993899997,0 -48.91590451599996,-26.38645070499996,0 -48.91589158299995,-26.38639636499994,0 -48.91587296899996,-26.38621142099993,0 -48.91588137599996,-26.38616877099997,0 -48.91599218099998,-26.38607612799996,0 -48.91643822399993,-26.38607588999997,0 -48.91675045799997,-26.38607571999996,0 -48.91682628699995,-26.38607567899993,0 -48.91713566799996,-26.38611395999993,0 -48.91742165899997,-26.38637553199993,0 -48.91756506699994,-26.38650318999993,0 -48.91750979699998,-26.38668958199997,0 -48.91739301299997,-26.38678288799997,0 -48.91723584999994,-26.38692770199998,0 -48.91718561099998,-26.38692772899998,0 -48.91705065799994,-26.38700147099996,0 -48.91702841699998,-26.38712771199994,0 -48.91703005599993,-26.38722604699996,0 -48.91703266599997,-26.38724822499995,0 -48.91708881299996,-26.38727383499997,0 -48.91710888799997,-26.38728110299996,0 -48.91725626799996,-26.38728465599996,0 -48.91734950599993,-26.38731347899994,0 -48.91734633499993,-26.38740166499997,0 -48.91733188599994,-26.38741550199995,0 -48.91728404099996,-26.38750027499998,0 -48.91716850799998,-26.38746340099993,0 -48.91712207599994,-26.38745325699995,0 -48.91705662999993,-26.38740181899993,0 -48.91695560499995,-26.38742945599995,0 -48.91689258499996,-26.38744657599995,0 -48.91684457299994,-26.38746018699993,0 -48.91669946799993,-26.38745008099994,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50009">
+			<name>AU JOI SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU JOI SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,001168</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.91108668199996,-26.38037604999994,0 -48.91089772799995,-26.38062893599994,0 -48.91071066299998,-26.38051254599998,0 -48.91091544799997,-26.38019182299996,0 -48.91108668199996,-26.38037604999994,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50010">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,003942</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94274521699998,-26.44206749699998,0 -48.94293005599997,-26.44057080499994,0 -48.94320173499996,-26.44055471799993,0 -48.94335960899997,-26.44076178299997,0 -48.94336683499995,-26.44089611899995,0 -48.94331605399999,-26.44105636799998,0 -48.94315714099997,-26.44117042499994,0 -48.94305570199998,-26.44130974199993,0 -48.94300926499994,-26.44151898799993,0 -48.94301190099998,-26.44168216399993,0 -48.94318365899994,-26.44171394299997,0 -48.94313233099996,-26.44184670399994,0 -48.94314053799997,-26.44197620599994,0 -48.94286750299995,-26.44204929099993,0 -48.94274521699998,-26.44206749699998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50011">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,007693</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94461221699999,-26.44100703999993,0 -48.94516864999997,-26.44026165899993,0 -48.94592530299997,-26.43999105399996,0 -48.94672046399995,-26.43961538699995,0 -48.94715735499995,-26.43930565399995,0 -48.94729236099994,-26.43933781499993,0 -48.94728511399996,-26.43953662099995,0 -48.94699429299994,-26.43987933099993,0 -48.94687654199998,-26.44011139799994,0 -48.94683876799996,-26.44016097699995,0 -48.94666417999997,-26.44031417999997,0 -48.94632349199998,-26.44047034699997,0 -48.94619175199995,-26.44049055499994,0 -48.94615765999999,-26.44039676399996,0 -48.94632851499995,-26.44021794399998,0 -48.94625517699996,-26.44005538899995,0 -48.94594134799996,-26.44026723599995,0 -48.94590234499997,-26.44036330799997,0 -48.94593105399997,-26.44046434999996,0 -48.94581953799997,-26.44055070999997,0 -48.94556215699998,-26.44064248099994,0 -48.94537708899998,-26.44070712199994,0 -48.94509238599994,-26.44082778299998,0 -48.94503947699997,-26.44098206099994,0 -48.94486075799995,-26.44112040499994,0 -48.94461221699999,-26.44100703999993,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50012">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,001737</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94403053899998,-26.44288885799995,0 -48.94398958599999,-26.44322375199994,0 -48.94384011299997,-26.44337448299996,0 -48.94368827499994,-26.44327942999996,0 -48.94365099999993,-26.44310537299998,0 -48.94363132599995,-26.44282326499996,0 -48.94365617899996,-26.44273371099996,0 -48.94383489399997,-26.44274090899995,0 -48.94394610299997,-26.44274821499994,0 -48.94403053899998,-26.44288885799995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50013">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,003862</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94265947799993,-26.44415923999998,0 -48.94288015499996,-26.44334341499996,0 -48.94328743399996,-26.44285057399998,0 -48.94337413899996,-26.44319564999995,0 -48.94357410099998,-26.44355891099997,0 -48.94365230999995,-26.44381339399996,0 -48.94375692999995,-26.44389678599998,0 -48.94355036499998,-26.44403504499996,0 -48.94318428199996,-26.44403569599996,0 -48.94308313299996,-26.44410416799997,0 -48.94296411099998,-26.44421275399998,0 -48.94265947799993,-26.44415923999998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50014">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,001165</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94432347599997,-26.44200861099995,0 -48.94419460199998,-26.44180352999996,0 -48.94433423499999,-26.44162717999996,0 -48.94447755699997,-26.44169791299993,0 -48.94453406499997,-26.44188923999997,0 -48.94447350799993,-26.44205867899996,0 -48.94432347599997,-26.44200861099995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50015">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,008147</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94213915599994,-26.44666624899998,0 -48.94244745599997,-26.44498468399996,0 -48.94327400399993,-26.44505630799995,0 -48.94322381399996,-26.44554204799994,0 -48.94306637299997,-26.44566563999996,0 -48.94307526799997,-26.44585397099996,0 -48.94306645599993,-26.44597405099995,0 -48.94305853299994,-26.44608202999996,0 -48.94310306799996,-26.44608205099996,0 -48.94340270999993,-26.44609292999996,0 -48.94367868699993,-26.44611449899998,0 -48.94410822899994,-26.44614677499993,0 -48.94408384699995,-26.44643105599994,0 -48.94369303299993,-26.44650331399998,0 -48.94326674399997,-26.44651342399993,0 -48.943083754,-26.44648238899998,0 -48.94286334599997,-26.44651323599993,0 -48.94277883299998,-26.44664623499995,0 -48.94235024099999,-26.44679739699996,0 -48.94235281399995,-26.44699572299993,0 -48.94223124399998,-26.44712248899998,0 -48.94209877599997,-26.44731440899994,0 -48.94201592499996,-26.44727627399993,0 -48.94213915599994,-26.44666624899998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50016">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,001752</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94259123499995,-26.44286762499996,0 -48.94242843699993,-26.44303648799997,0 -48.94213475399994,-26.44303698999994,0 -48.94214370099996,-26.44288324199994,0 -48.94245795099994,-26.44249254899995,0 -48.94270844499994,-26.44259390299993,0 -48.94259123499995,-26.44286762499996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50017">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,001576</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94177698799996,-26.44617764799995,0 -48.94170596799995,-26.44670654799995,0 -48.94136961999994,-26.44651252399996,0 -48.94142256399994,-26.44621996099994,0 -48.94177698799996,-26.44617764799995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50018">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002541</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94228407599996,-26.44857477199997,0 -48.94201437899994,-26.44771026799998,0 -48.94233335999996,-26.44762721699993,0 -48.94265959799998,-26.44848720799996,0 -48.94228407599996,-26.44857477199997,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50019">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002665</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.94994377699993,-26.45559766199995,0 -48.94992395199995,-26.45606180599998,0 -48.95000777299998,-26.45607433599997,0 -48.95000330999994,-26.45624449099995,0 -48.94998122599997,-26.45631477699993,0 -48.94958284599994,-26.45627183999994,0 -48.94932301399996,-26.45623234899995,0 -48.94920630099995,-26.45621242699997,0 -48.94915116899995,-26.45619641799993,0 -48.94913653099998,-26.45613575899995,0 -48.94994377699993,-26.45559766199995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50020">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002046</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.95200477499998,-26.45817437299996,0 -48.95173907599997,-26.45807925199996,0 -48.95175344699994,-26.45765785199995,0 -48.95178603499994,-26.45735250899998,0 -48.95187821699994,-26.45732057399994,0 -48.95204237299998,-26.45744247399995,0 -48.95200477499998,-26.45817437299996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50021">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,003588</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.95285583599997,-26.45648147799994,0 -48.95277882299996,-26.45684473299997,0 -48.95212888199994,-26.45674417899994,0 -48.95159681399998,-26.45661710499996,0 -48.95168678499994,-26.45636039099998,0 -48.95189894299995,-26.45636558099994,0 -48.95190122199995,-26.45641118399993,0 -48.95188202299994,-26.45651065699997,0 -48.95186350199998,-26.45652535499994,0 -48.95186059399997,-26.45655945199997,0 -48.95193581099995,-26.45662678799994,0 -48.95203365599997,-26.45670232399993,0 -48.95221298599995,-26.45671638599998,0 -48.95232632899997,-26.45662217799998,0 -48.95235117299995,-26.45648127199996,0 -48.95236113099998,-26.45645147199997,0 -48.95243464299994,-26.45642649099995,0 -48.95247897599995,-26.45641142499994,0 -48.95264322099997,-26.45635057499993,0 -48.95273696399994,-26.45635061299998,0 -48.95278630199994,-26.45635063399993,0 -48.95279616899995,-26.45635063799995,0 -48.95285583599997,-26.45648147799994,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50022">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,008046</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.95579981999998,-26.45675129499995,0 -48.95571560299993,-26.45653153899997,0 -48.95579322799995,-26.45636415199994,0 -48.95578097599997,-26.45624139199998,0 -48.95577732799995,-26.45620484199998,0 -48.95577364599996,-26.45616794699998,0 -48.95578039299994,-26.45613604799996,0 -48.95579974399993,-26.45613071399998,0 -48.95583354699994,-26.45612002099995,0 -48.95584702899998,-26.45610391299994,0 -48.95586103999995,-26.45609313999995,0 -48.95587916499994,-26.45607150099994,0 -48.95588325099993,-26.45606063499997,0 -48.95589693599993,-26.45604428299998,0 -48.95592491099995,-26.45601688299996,0 -48.95594886099996,-26.45600035499996,0 -48.95596401399996,-26.45600036099995,0 -48.95599860299996,-26.45598931199993,0 -48.95603328699996,-26.45597823299994,0 -48.95604341799999,-26.45597823699995,0 -48.95608997199997,-26.45599488399995,0 -48.95611646099997,-26.45601695999994,0 -48.95613187599997,-26.45602246299995,0 -48.95616398999994,-26.45606074699998,0 -48.95619105899993,-26.45610404899998,0 -48.95619279499994,-26.45614154599997,0 -48.95620391499995,-26.45616811599997,0 -48.95621049799996,-26.45620501099995,0 -48.95621096299994,-26.45621548899993,0 -48.95622214299992,-26.45624675699997,0 -48.95623810999995,-26.45627777699997,0 -48.95627004299996,-26.45634920199996,0 -48.95638542999996,-26.45632389199994,0 -48.95641954399997,-26.45633406599995,0 -48.95643365799998,-26.45630861799998,0 -48.95644306899992,-26.45628813799993,0 -48.95645727999995,-26.45625721199997,0 -48.95646675599994,-26.45623124999997,0 -48.95647634999995,-26.45621035499994,0 -48.95649101799994,-26.45619986999998,0 -48.95650568999997,-26.45618408599995,0 -48.95653029299996,-26.45616294299998,0 -48.95655999399997,-26.45613635299998,0 -48.95656497999994,-26.45611494399998,0 -48.95657000999995,-26.45608260999995,0 -48.95657005299995,-26.45605546099995,0 -48.95656505299997,-26.45603908099997,0 -48.95653985899998,-26.45601162199995,0 -48.95652465999995,-26.45599505699994,0 -48.95650939699993,-26.45597842199993,0 -48.95646838599998,-26.45593372499997,0 -48.95645288999998,-26.45591683499998,0 -48.95641073299998,-26.45584283199997,0 -48.95639998999997,-26.45581979099995,0 -48.95639987899995,-26.45581401099997,0 -48.95637299799996,-26.45576746799998,0 -48.95635669299998,-26.45573810999997,0 -48.95635640699993,-26.45572631099999,0 -48.95634505199996,-26.45569070599993,0 -48.95634398299995,-26.45564878399995,0 -48.95635908799994,-26.45561858699995,0 -48.95637443399994,-26.45559427299997,0 -48.95639542699996,-26.45558206899995,0 -48.95643244799993,-26.45556983599994,0 -48.95648000999994,-26.45553289699996,0 -48.95647966999997,-26.45549561299998,0 -48.95647944199993,-26.45547057399995,0 -48.95647903899994,-26.45542640099995,0 -48.95647869099997,-26.45538817299996,0 -48.95647822099994,-26.45533666999995,0 -48.95648895499993,-26.45531069299994,0 -48.95651635099995,-26.45530418499993,0 -48.95660432299997,-26.45527804499994,0 -48.95672080499998,-26.45523190499995,0 -48.95674862399994,-26.45522527799994,0 -48.95678219799999,-26.45521198599994,0 -48.95679883999998,-26.45521199299998,0 -48.95688205199997,-26.45521202899994,0 -48.95694307299993,-26.45521205499995,0 -48.95698222599998,-26.45520540299998,0 -48.95700544899996,-26.45518534599995,0 -48.95701692599994,-26.45517864199996,0 -48.95703993299998,-26.45516520299998,0 -48.95707896999994,-26.45516521999997,0 -48.95710769099998,-26.45515174199994,0 -48.95713561799993,-26.45515175399993,0 -48.95716354399997,-26.45515176599997,0 -48.95721939699996,-26.45515178999995,0 -48.95723056699995,-26.45515179499995,0 -48.95726407799998,-26.45515180899997,0 -48.95730317499994,-26.45515182499997,0 -48.95733168999993,-26.45514507699994,0 -48.95734966599997,-26.45513153299993,0 -48.95737890999993,-26.45511795299996,0 -48.95738451699999,-26.45511795499994,0 -48.95742376199996,-26.45511797199998,0 -48.95747421999995,-26.45511799299993,0 -48.95749103899993,-26.45511799999997,0 -48.95754710299997,-26.45511802399994,0 -48.95756392299995,-26.45511803099998,0 -48.95760877299995,-26.45511804999995,0 -48.95763680499994,-26.45511806199994,0 -48.95765923099998,-26.45511807099996,0 -48.95768726199999,-26.45511808299995,0 -48.95770232999996,-26.45513168199994,0 -48.95769884499998,-26.45515874099993,0 -48.95767143499995,-26.45519901499995,0 -48.95766420299997,-26.45521235799998,0 -48.95762607099995,-26.45525214199995,0 -48.95761974899995,-26.45525873799994,0 -48.95760948099996,-26.45529811499995,0 -48.95759852899994,-26.45534361099993,0 -48.95759466499992,-26.45537582099996,0 -48.95762337199994,-26.45540780499994,0 -48.95765889499995,-26.45542688899997,0 -48.95767266099995,-26.45544588099995,0 -48.95769009099996,-26.45547734499996,0 -48.95767850799996,-26.45548360399994,0 -48.95764683499995,-26.45552098299993,0 -48.95762386799999,-26.45553336399996,0 -48.95761240899998,-26.45553954199994,0 -48.95756600899994,-26.45557029799994,0 -48.95754186499995,-26.45559474799995,0 -48.95749399299996,-26.45564322699994,0 -48.95749320999993,-26.45569712299994,0 -48.95750032399997,-26.45572676899997,0 -48.95751009099996,-26.45573267599997,0 -48.95754451899995,-26.45575034999996,0 -48.95757144699996,-26.45578545499996,0 -48.95759887999998,-26.45581448499996,0 -48.95761438399995,-26.45581448999997,0 -48.95763278099997,-26.45583181099994,0 -48.95764309499997,-26.45583181499995,0 -48.95767325199996,-26.45583758099997,0 -48.95768276699995,-26.45584333199997,0 -48.95775067199998,-26.45587197099997,0 -48.95778913799995,-26.45588905699998,0 -48.95780962099997,-26.45588906499995,0 -48.95787854399998,-26.45590609199996,0 -48.95789201399998,-26.45591739099996,0 -48.95792487999995,-26.45593428599995,0 -48.95794937399995,-26.45593990699996,0 -48.95794866999995,-26.45597341499996,0 -48.95794483499999,-26.45599559799996,0 -48.95794007099994,-26.45602315599996,0 -48.95793095699997,-26.45610470699995,0 -48.95791913599994,-26.45611545199995,0 -48.95789062499994,-26.45613685099994,0 -48.95787216999997,-26.45615813799998,0 -48.95784887699995,-26.45617930899994,0 -48.95782977899996,-26.45620561599998,0 -48.95782146399995,-26.45622653799995,0 -48.95780663099998,-26.45625770999993,0 -48.95779678499997,-26.45628863499996,0 -48.95777812499995,-26.45631421499996,0 -48.95775712499994,-26.45632439499997,0 -48.95773945999996,-26.45634468299994,0 -48.95773153099998,-26.45636486699993,0 -48.95771883399993,-26.45638494399998,0 -48.95769810399997,-26.45639493799996,0 -48.95767336199998,-26.45639991999997,0 -48.95764865199994,-26.45640489599998,0 -48.95763623799996,-26.45642476299997,0 -48.95722086399995,-26.45624713199993,0 -48.95702962499995,-26.45625224699995,0 -48.95698332199999,-26.45629347099998,0 -48.95686728299995,-26.45639463899994,0 -48.95671110999997,-26.45627795599995,0 -48.95579981999998,-26.45675129499995,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50023">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,002831</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.95691798199994,-26.45805751799998,0 -48.95655360499995,-26.45776518999998,0 -48.95643404199996,-26.45766059099998,0 -48.95669618799997,-26.45749328999995,0 -48.95694021499998,-26.45738532799993,0 -48.95714312199993,-26.45736628399993,0 -48.95729085999994,-26.45734230299997,0 -48.95733396799994,-26.45727910099998,0 -48.95745343199997,-26.45727423699998,0 -48.95749797999997,-26.45734719499995,0 -48.95753915999995,-26.45739981199995,0 -48.95752808399993,-26.45745635599997,0 -48.95740718399998,-26.45759849399997,0 -48.95723933599998,-26.45776542099998,0 -48.95704463499993,-26.45800186799994,0 -48.95691798199994,-26.45805751799998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50024">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,00883</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.95889807399994,-26.45980907399996,0 -48.95864862199994,-26.45999488499996,0 -48.95842135199996,-26.46015348099996,0 -48.95836487099995,-26.46017403499997,0 -48.95832939699994,-26.46016375599993,0 -48.95830265299998,-26.46011538399995,0 -48.95834334299997,-26.45995479499993,0 -48.95834907499994,-26.45989944699994,0 -48.95843772699994,-26.45986204999997,0 -48.95851755899997,-26.45985076299996,0 -48.95859791599996,-26.45983564699998,0 -48.95859744399996,-26.45964841599994,0 -48.95861031499993,-26.45958364399996,0 -48.95845219299998,-26.45952173999996,0 -48.95821439799993,-26.45964829699994,0 -48.95814591799996,-26.45989193499997,0 -48.95805454699996,-26.45988817599994,0 -48.95795303399996,-26.45982785499996,0 -48.95794008999997,-26.45981642299995,0 -48.95781118099995,-26.45975865299995,0 -48.95773252999993,-26.45991781499998,0 -48.95772839599994,-26.45991781399994,0 -48.95770772399993,-26.45991780699995,0 -48.95767797399998,-26.45990667799998,0 -48.95767383299994,-26.45990667699994,0 -48.95765312599997,-26.45990666999995,0 -48.95763241799995,-26.45990666399996,0 -48.95761171099997,-26.45990665799997,0 -48.95758239699995,-26.45990293399996,0 -48.95755719599998,-26.45989920699998,0 -48.95752817299996,-26.45989919799996,0 -48.95750329599997,-26.45989918999993,0 -48.95747427199996,-26.45989918099997,0 -48.95744939499997,-26.45989917299994,0 -48.95741207899994,-26.45989916199994,0 -48.95735403199996,-26.45989914399996,0 -48.95732915399998,-26.45989913599993,0 -48.95730842299997,-26.45989912999994,0 -48.95728769099998,-26.45989912299996,0 -48.95725866699996,-26.45989911399994,0 -48.95724571399995,-26.45989538699996,0 -48.95721496499994,-26.45985413799997,0 -48.95720227099997,-26.45982381599998,0 -48.95719057099996,-26.45980089099993,0 -48.95718779299995,-26.45978166799995,0 -48.95718611799999,-26.45977008099993,0 -48.95719290699998,-26.45975845699996,0 -48.95720710599994,-26.45973899399996,0 -48.95720860999995,-26.45971941499994,0 -48.95718366399996,-26.45966397199993,0 -48.95715889399997,-26.45961166899997,0 -48.95714426899997,-26.45957088799997,0 -48.95713689099995,-26.45955031499994,0 -48.95712385599995,-26.45952130599994,0 -48.95712262099994,-26.45951297399995,0 -48.95707924699997,-26.45948784399997,0 -48.95704507199998,-26.45946676399996,0 -48.95701276399996,-26.45945828999993,0 -48.95698037699998,-26.45944979599994,0 -48.95695161799995,-26.45943702299996,0 -48.95691168099995,-26.45943700899994,0 -48.95687096599994,-26.45943272999995,0 -48.95683988499997,-26.45943271999994,0 -48.95681242999995,-26.45942843999995,0 -48.95679021599995,-26.45942843199999,0 -48.95676102299996,-26.45941558099997,0 -48.95674236099995,-26.45941128399994,0 -48.95672367599996,-26.45940698099997,0 -48.95669516199996,-26.45939836399998,0 -48.95666748499997,-26.45939404199993,0 -48.95665672999996,-26.45938539899993,0 -48.95663776699996,-26.45935934799996,0 -48.95663123699995,-26.45932871799994,0 -48.95662275899996,-26.45928894699996,0 -48.95661874099994,-26.45924873299999,0 -48.95661106299997,-26.45921260599994,0 -48.95660330699997,-26.45917611699997,0 -48.95659939899997,-26.45915773499996,0 -48.95660641599994,-26.45912534699994,0 -48.95660615299994,-26.45910203499994,0 -48.95660634599994,-26.45903596899996,0 -48.956616243,-26.45899287299994,0 -48.95661952299997,-26.45893951499994,0 -48.95662384899999,-26.45889034399994,0 -48.95662943099996,-26.45887049699996,0 -48.95662743299993,-26.45886053199996,0 -48.95662984499995,-26.45880019999993,0 -48.95662924999994,-26.45872342699994,0 -48.95663766799999,-26.45866614699997,0 -48.95664548599996,-26.45865564399998,0 -48.95664824999994,-26.45861864999995,0 -48.95665601699994,-26.45858130699997,0 -48.95665794399997,-26.45856519399996,0 -48.95667183499995,-26.45853277299995,0 -48.95667679899998,-26.45850554899995,0 -48.95669895699996,-26.45846160599996,0 -48.95672125099998,-26.45844500899995,0 -48.95674363799998,-26.45842834199993,0 -48.95674989299993,-26.45840600199995,0 -48.95676665299993,-26.45835528299995,0 -48.95678746999994,-26.45832683399993,0 -48.95680003099994,-26.45830966899996,0 -48.95682202199998,-26.45828667099994,0 -48.95684174499996,-26.45828090799995,0 -48.95687519799998,-26.45826355699995,0 -48.95689501399994,-26.45825776099997,0 -48.95691573399995,-26.45825776899994,0 -48.95697271599993,-26.45825779299997,0 -48.95698307599997,-26.45825779699993,0 -48.95702531599994,-26.45826361899998,0 -48.95704758699998,-26.45827521299998,0 -48.95711698299994,-26.45829255599995,0 -48.95713761599996,-26.45829256499997,0 -48.95717510299994,-26.45830408299997,0 -48.95720152799999,-26.45830983299993,0 -48.95723948899995,-26.45832701899997,0 -48.95727154699995,-26.45833843799994,0 -48.95728693399997,-26.45833844399994,0 -48.95732796799996,-26.45833846099998,0 -48.95733822699998,-26.45833846499994,0 -48.95736900199995,-26.45833847699998,0 -48.95739358099996,-26.45832708099994,0 -48.95742182699996,-26.45829843599995,0 -48.95743577099995,-26.45828115099994,0 -48.95743992699995,-26.45826958499998,0 -48.95745914199994,-26.45825217899994,0 -48.95747987599998,-26.45825218799996,0 -48.95752652699997,-26.45825220599994,0 -48.95753689399999,-26.45825221099995,0 -48.95760946199994,-26.45825223999998,0 -48.95764574499998,-26.45825225499993,0 -48.95767166199994,-26.45825226499994,0 -48.95768820499995,-26.45826968399996,0 -48.95770983899996,-26.45828703199993,0 -48.95776311299994,-26.45832151299993,0 -48.95784131299996,-26.45835003999997,0 -48.95787755399994,-26.45836139599993,0 -48.95788796999995,-26.45836705999994,0 -48.95792933199994,-26.45838400699995,0 -48.95798070199999,-26.45840088699998,0 -48.95800635799998,-26.45841209899993,0 -48.95804193599997,-26.45841211199996,0 -48.95807756799997,-26.45841771499994,0 -48.95810807599997,-26.45842330799997,0 -48.95811315099996,-26.45842330999994,0 -48.95819435899995,-26.45842334099996,0 -48.95826033899994,-26.45842336599998,0 -48.95830094199994,-26.45842338199998,0 -48.95835169599997,-26.45842340099995,0 -48.95837691999999,-26.45842898399997,0 -48.95840700399998,-26.45844011899993,0 -48.95842707599996,-26.45844567699993,0 -48.95847702499998,-26.45846230099994,0 -48.95849102499994,-26.45848982999996,0 -48.95852047599993,-26.45850626399994,0 -48.95856289899997,-26.45856053999995,0 -48.95857757899995,-26.45856593099995,0 -48.95859722099993,-26.45857131699995,0 -48.95861527899996,-26.45860343899994,0 -48.95862267799998,-26.45864585999993,0 -48.95863522799994,-26.45868260699996,0 -48.95864765999994,-26.45871901099997,0 -48.95865577299998,-26.45874480599997,0 -48.95866801199999,-26.45878063299995,0 -48.95867599399999,-26.45880602099993,0 -48.95867944899993,-26.45882620999998,0 -48.95868630399997,-26.45886627199997,0 -48.95868492199999,-26.45888614399996,0 -48.95868423299999,-26.45889604099995,0 -48.95869645399995,-26.45892558399993,0 -48.95870786799998,-26.45896461599995,0 -48.95873255399994,-26.45901284699994,0 -48.95874553199997,-26.45902719699996,0 -48.95875769199995,-26.45905098999998,0 -48.95876549699995,-26.45906991399994,0 -48.95876510999996,-26.45907462899993,0 -48.95876356499997,-26.45909342999994,0 -48.95877516799993,-26.45912145799997,0 -48.95881522299992,-26.45914003599995,0 -48.95884166999997,-26.45915390699997,0 -48.95889151099993,-26.45916313599997,0 -48.95890947499998,-26.45916773999994,0 -48.95920617399997,-26.45943349799995,0 -48.95889807399994,-26.45980907399996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50025">
+			<name>AU GUA SC</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>AU GUA SC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>Áreas Urbanas Verificadas.kmz/Áreas Urbanas Verificadas</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0,012735</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.96321967899996,-26.46806114499998,0 -48.96307215399997,-26.46797631599998,0 -48.96284175099999,-26.46787458499995,0 -48.96274522299996,-26.46783502499994,0 -48.96272122599999,-26.46781913899997,0 -48.96266455599994,-26.46779522899993,0 -48.96262342799997,-26.46779521599996,0 -48.96259074799996,-26.46778722199997,0 -48.96251720799995,-26.46776318999997,0 -48.96250896199996,-26.46776318699995,0 -48.96245151799997,-26.46774711399996,0 -48.96241035199995,-26.46773905799995,0 -48.96236095199998,-26.46772292799994,0 -48.96231971199995,-26.46770676099993,0 -48.96225347799998,-26.46769864699996,0 -48.96222862499997,-26.46767430399996,0 -48.96217875599996,-26.46765801399994,0 -48.96212876399994,-26.46764168299995,0 -48.96207031599994,-26.46762530899997,0 -48.96204520599997,-26.46761710899995,0 -48.96201158999999,-26.46760068199995,0 -48.96195281299998,-26.46758420599997,0 -48.96183457899997,-26.46754284699995,0 -48.96172432799995,-26.46750956799997,0 -48.96161390699996,-26.46748448999995,0 -48.96157098099997,-26.46746772899996,0 -48.96151106099995,-26.46745091999998,0 -48.96146040299993,-26.46745090199994,0 -48.96142562899996,-26.46743405999996,0 -48.96137804699998,-26.46734925499993,0 -48.96135086999993,-26.46732359999993,0 -48.96131273699996,-26.46726336599994,0 -48.96130124099994,-26.46722001699994,0 -48.96126259199996,-26.46715885499998,0 -48.96123353599995,-26.46711482999996,0 -48.96119494699996,-26.46706162399994,0 -48.96116683499997,-26.46703486199993,0 -48.96114803299997,-26.46701696399998,0 -48.96110519699994,-26.46691770899997,0 -48.96105944599999,-26.46678931099996,0 -48.96101364899994,-26.46666794499998,0 -48.96098756799995,-26.46657315599998,0 -48.96098092099993,-26.46649641299996,0 -48.96097924799994,-26.46647709899997,0 -48.96098245599995,-26.46640908899997,0 -48.96099483799998,-26.46634043699993,0 -48.96100065699994,-26.46630091299994,0 -48.96102836799997,-26.46619110799998,0 -48.96103187799997,-26.46612035899995,0 -48.96102857999995,-26.46607962199994,0 -48.96104229099996,-26.46601809899994,0 -48.96105692999998,-26.46596643899994,0 -48.96105448499998,-26.46593526499993,0 -48.96105981799997,-26.46588302099997,0 -48.96106681599997,-26.46585149999993,0 -48.96107384399995,-26.46581984599993,0 -48.96110700999998,-26.46575614399995,0 -48.96112291799994,-26.46571337199998,0 -48.96113891699997,-26.46567035799995,0 -48.96115424499993,-26.46561624299994,0 -48.96120675799995,-26.46553984299993,0 -48.96121423299996,-26.46550685899996,0 -48.96121811899997,-26.46541819499998,0 -48.96122350499996,-26.46535102299998,0 -48.96120100399998,-26.46530590499998,0 -48.96119726799998,-26.46524914699995,0 -48.96119350399994,-26.46519197299995,0 -48.96117827199997,-26.46511121799995,0 -48.96117672799994,-26.46508799299994,0 -48.96115132399996,-26.46500615499997,0 -48.96111809399997,-26.46495899899998,0 -48.96108381499994,-26.46489966099995,0 -48.96106945399998,-26.46483988799997,0 -48.96105586399996,-26.46479174499996,0 -48.96105145599995,-26.46473116299995,0 -48.96107933299999,-26.46469460799995,0 -48.96114977399999,-26.46468241299994,0 -48.96118973899996,-26.46467018699997,0 -48.96132294899995,-26.46468249099996,0 -48.96135613699994,-26.46473129899994,0 -48.96137836399998,-26.46476771099998,0 -48.96142071099996,-26.46480396799996,0 -48.96143260499997,-26.46484004899997,0 -48.96144677199994,-26.46492360299993,0 -48.96146796899996,-26.46494732299993,0 -48.96154963399994,-26.46498279299993,0 -48.96155312399997,-26.46506486299995,0 -48.96166131899997,-26.46530609999996,0 -48.96159641799994,-26.46539602799993,0 -48.96141761299998,-26.46587267399997,0 -48.96168411999997,-26.46593551899997,0 -48.96176026999996,-26.46596672099997,0 -48.96200815699995,-26.46624161199998,0 -48.96211975699998,-26.46639975799997,0 -48.96215744699998,-26.46666837399994,0 -48.96214046899996,-26.46681741899994,0 -48.96212390999996,-26.46697238599995,0 -48.96198949999996,-26.46728947899993,0 -48.96203451399998,-26.46745110099995,0 -48.96207718899996,-26.46749300599998,0 -48.96232101699997,-26.46752641199998,0 -48.96260348599998,-26.46733259399997,0 -48.96272685399998,-26.46722051599994,0 -48.96281650499998,-26.46713302799998,0 -48.96305277099998,-26.46679003499997,0 -48.96301522299996,-26.46650681099993,0 -48.96311343699995,-26.46652608099998,0 -48.96363256599994,-26.46647807999995,0 -48.96366971199996,-26.46673450399993,0 -48.96368364399996,-26.46677171999994,0 -48.96370064899998,-26.46694583199997,0 -48.96379770799996,-26.46716849699993,0 -48.96387545399995,-26.46723826699997,0 -48.96385674199996,-26.46739261599998,0 -48.96384551499996,-26.46748522999997,0 -48.96382351699997,-26.46766668599997,0 -48.96366718099995,-26.46780351999996,0 -48.96359472799998,-26.46786693399997,0 -48.96340900499996,-26.46792970099995,0 -48.96321967899996,-26.46806114499998,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50026">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4101408</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4101408003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>115823</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Apucarana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.42396837204262,-23.57505480423578,0 -51.42670475272211,-23.57291328911697,0 -51.43086880894833,-23.57529275045994,0 -51.43086880894833,-23.5762445344576,0 -51.43110675517255,-23.57719631845527,0 -51.43229648539437,-23.57683940001823,0 -51.43312929717922,-23.57755323779156,0 -51.43372416273985,-23.57814810335219,0 -51.4333672434035,-23.57933783447345,0 -51.432891350955,-23.57981372692194,0 -51.4320585391702,-23.57957577979835,0 -51.42396837204262,-23.57505480423578,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50027">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4119905</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4119905001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>300196</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Ponta Grossa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-50.27031897494072,-25.05133377753175,0 -50.26924821783081,-25.05050096664621,0 -50.2675825951606,-25.04954918174929,0 -50.2668687564879,-25.04954918174929,0 -50.26579799937814,-25.04943020863709,0 -50.26448929604413,-25.04871636996433,0 -50.26389443048357,-25.04740766663042,0 -50.26353751114709,-25.04621793550928,0 -50.26282367337376,-25.04550409773583,0 -50.26258572714944,-25.04371950285275,0 -50.2629426464859,-25.04312463729212,0 -50.26341853803502,-25.0425297717315,0 -50.26389443048357,-25.04122106839753,0 -50.26520313381753,-25.040983121274,0 -50.26627389092727,-25.04300566328061,0 -50.26591697249023,-25.04395744817765,0 -50.26579799937814,-25.04550409773583,0 -50.26603594560231,-25.04693177418199,0 -50.26746362204847,-25.04800253219105,0 -50.26912924471884,-25.04871636996433,0 -50.2707948673891,-25.0497871279735,0 -50.2718656244989,-25.0509768590947,0 -50.27150870516243,-25.05133377753175,0 -50.27031897494072,-25.05133377753175,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50028">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4209300</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4209300005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>166732</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Lages</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>SC</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-50.29125130017724,-27.76323276858723,0 -50.29267897662336,-27.76251892991451,0 -50.29636714130042,-27.76263790302663,0 -50.29981735975322,-27.76311379547511,0 -50.30029325220171,-27.76477941814546,0 -50.30029325220171,-27.76882450215888,0 -50.30016060399856,-27.77113011747077,0 -50.29898454886772,-27.77103211295148,0 -50.29791379085864,-27.77127005917572,0 -50.29601022196406,-27.77008032895385,0 -50.29565330352703,-27.76936649028113,0 -50.29624816818829,-27.76865265160841,0 -50.29589124975126,-27.76758189449867,0 -50.29101335395301,-27.76770086761078,0 -50.29125130017724,-27.76323276858723,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50029">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4106902</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4106902013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>1757904</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>1,32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.29037651966054,-25.5648923388103,0 -49.29066107235053,-25.56376146921633,0 -49.29395317739716,-25.56516922028317,0 -49.29603277059579,-25.56529918760737,0 -49.29746249569757,-25.56659892290185,0 -49.30006198966902,-25.5672487838043,0 -49.30240153730107,-25.56867849002026,0 -49.30474108043649,-25.56893843096378,0 -49.30708062447116,-25.56958829276545,0 -49.30487106394827,-25.57114798788922,0 -49.30253152171224,-25.57127796960253,0 -49.29954210688271,-25.57101803135703,0 -49.29889223608775,-25.57166790395053,0 -49.30136175823851,-25.57309760926717,0 -49.3033113805157,-25.57413739552436,0 -49.30539097821093,-25.5751771799828,0 -49.30617083341713,-25.57725676149033,0 -49.30357134124431,-25.57699682234545,0 -49.30071189733616,-25.57595703968559,0 -49.29889224957759,-25.57491725342845,0 -49.29759250169252,-25.57439736254815,0 -49.29694264168944,-25.57751674020534,0 -49.29772249959365,-25.58024619160835,0 -49.29746255865014,-25.58232577671311,0 -49.29525299093275,-25.58206583576964,0 -49.29408321306971,-25.58050615143765,0 -49.29512300112555,-25.57842656453425,0 -49.29551291478913,-25.57582708315329,0 -49.29395322146388,-25.57608703578796,0 -49.29187362466803,-25.57517722494879,0 -49.29291341722035,-25.57413742969851,0 -49.29473305958294,-25.57387747526525,0 -49.29512297594454,-25.57205783829858,0 -49.29460307067512,-25.57023820402986,0 -49.29213355392028,-25.57023821212374,0 -49.28927660293277,-25.5692636213189,0 -49.28963814838181,-25.56782676729142,0 -49.29135369781483,-25.56815863061621,0 -49.29291339383793,-25.56841857335832,0 -49.2933033137968,-25.56750875442532,0 -49.29037651966054,-25.5648923388103,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50030">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4106902</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4106902020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>1757904</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>3,89</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.22912053218664,-25.35078498993528,0 -49.23085154726101,-25.35094398467709,0 -49.23194755463584,-25.35046197863738,0 -49.23285256219594,-25.3505549766308,0 -49.23375057123178,-25.35114297586756,0 -49.23438157784744,-25.35131597395292,0 -49.23483858093573,-25.35115497192436,0 -49.23610159241441,-25.35162497021616,0 -49.23700760002066,-25.35163596712613,0 -49.23810260734939,-25.35115296193953,0 -49.2388296129962,-25.35108095861932,0 -49.23954962011874,-25.35150295829482,0 -49.24018062583519,-25.35159195610385,0 -49.24100163132015,-25.35135295317616,0 -49.24293064113613,-25.34989394075268,0 -49.24647966720283,-25.34906792604386,0 -49.24792168064101,-25.34958092362064,0 -49.24919668907592,-25.34910191681991,0 -49.25010069748913,-25.34936091527391,0 -49.25183370905836,-25.34867890720574,0 -49.25214082124189,-25.34873842523803,0 -49.2521124449333,-25.34877896937388,0 -49.25148277650885,-25.3496784991633,0 -49.25148277920681,-25.35035759342804,0 -49.25243351819227,-25.35130832162162,0 -49.25336327959155,-25.35177319647579,0 -49.25433498716984,-25.35225917212307,0 -49.25435586583051,-25.35236340804482,0 -49.25447081537579,-25.35293814048276,0 -49.25447098444835,-25.35293814048276,0 -49.25447099164279,-25.35293817465691,0 -49.25610050473443,-25.35293816926105,0 -49.25610051102967,-25.3529381350868,0 -49.25610064772667,-25.3529381350868,0 -49.25619324732048,-25.35247512992328,0 -49.25623650291226,-25.35225916582778,0 -49.25684370807056,-25.35247985406193,0 -49.25773047917825,-25.35280231137745,0 -49.25773048367472,-25.35375304226898,0 -49.25760069081912,-25.35404507731835,0 -49.25718702156377,-25.35497517326547,0 -49.25710222089072,-25.3555703571862,0 -49.25705139480596,-25.35592614517532,0 -49.25725025289682,-25.35682098589967,0 -49.25732300445304,-25.35714856125708,0 -49.25664394526176,-25.35809924718245,0 -49.25667911235109,-25.3583454087136,0 -49.25677953424804,-25.35905019031389,0 -49.25711667389527,-25.35930265429403,0 -49.2573230476205,-25.35945743301409,0 -49.25827509601885,-25.35850538191772,0 -49.25922454807437,-25.35755617717581,0 -49.2600689467244,-25.35797817595199,0 -49.26031106850098,-25.3580992354913,0 -49.26166926512434,-25.35877832525944,0 -49.26286834200033,-25.35889822827051,0 -49.26302746534515,-25.35891415796192,0 -49.26343492118464,-25.36000068828106,0 -49.26302751300926,-25.3613587311205,0 -49.26237794258788,-25.36177221421627,0 -49.26153345940156,-25.36230961399747,0 -49.26153346209958,-25.36298870826221,0 -49.26132659284792,-25.36319557841318,0 -49.26058258461849,-25.36393919723611,0 -49.258953071527,-25.36393920263197,0 -49.25851793275638,-25.36359147976293,0 -49.25827379919645,-25.36339617489347,0 -49.2566439668455,-25.36339618028944,0 -49.2563306592325,-25.36410112646571,0 -49.25610056678767,-25.36461867820941,0 -49.25542160562259,-25.3652976555623,0 -49.25542154806594,-25.36529771941417,0 -49.25611101511118,-25.36621685712214,0 -49.25623651999928,-25.36638419487463,0 -49.25664396864414,-25.36733489428991,0 -49.25610056498903,-25.36828572860338,0 -49.25460655724669,-25.36923623736237,0 -49.25365286218982,-25.3693423798469,0 -49.25338455215525,-25.36937219237274,0 -49.25365603769586,-25.36638422994815,0 -49.25284102799101,-25.36556922923643,0 -49.25257599868337,-25.36537052043315,0 -49.25229775383821,-25.36516183904757,0 -49.25177415325453,-25.36455097904428,0 -49.25148301213125,-25.36421122776579,0 -49.25148291950109,-25.36421120977946,0 -49.25148283406548,-25.36421110995468,0 -49.25110963430205,-25.36413647162078,0 -49.25012456189893,-25.36393924400085,0 -49.2498529972179,-25.36312456524644,0 -49.24937531691722,-25.36300514696984,0 -49.24876648398595,-25.36285273166811,0 -49.24841894277995,-25.36331626473373,0 -49.2483589912743,-25.36339621626235,0 -49.24835898318042,-25.36339623514812,0 -49.24930949643607,-25.36475423751796,0 -49.24938573736182,-25.36481140022579,0 -49.25039628306195,-25.36556929758496,0 -49.24930950003329,-25.36584074175664,0 -49.24875586838857,-25.36541490017748,0 -49.24754407330022,-25.36448276097059,0 -49.24678818412735,-25.3638780559275,0 -49.24618596570957,-25.36339624234262,0 -49.24532410582264,-25.36237777091731,0 -49.24469185544473,-25.36163057549061,0 -49.24442316859427,-25.3614626477829,0 -49.24360543484289,-25.36095124110688,0 -49.24318523650942,-25.36021638707643,0 -49.24306201679855,-25.36000075483094,0 -49.2430619268664,-25.36000074044176,0 -49.24129636343628,-25.35972912360012,0 -49.24035809445047,-25.36055011109869,0 -49.24020990596233,-25.36067975106954,0 -49.24020991855286,-25.36067976545877,0 -49.24020981243281,-25.36067985808893,0 -49.24116041831861,-25.36176625261038,0 -49.24109379384345,-25.36230048767732,0 -49.24102474389679,-25.36285290523728,0 -49.24091181962473,-25.36294705436302,0 -49.24020982412407,-25.36353205346143,0 -49.23924662053508,-25.36375433349565,0 -49.2384444045855,-25.36393927008123,0 -49.23764924111941,-25.36384015130182,0 -49.23735761795967,-25.36380369998074,0 -49.23647878246976,-25.36305042064032,0 -49.23640688167217,-25.36298878110733,0 -49.23612323370014,-25.36279024047707,0 -49.23504868235079,-25.36203806280633,0 -49.23464137130219,-25.36163076524753,0 -49.23545627578642,-25.36067987427668,0 -49.23722178705572,-25.36067986798145,0 -49.23722184011574,-25.36067976096217,0 -49.23722188148462,-25.36067976096217,0 -49.23731187664174,-25.36049968791025,0 -49.23776505940992,-25.35959331607859,0 -49.2374607917821,-25.3593325180812,0 -49.23681437078653,-25.35877825511233,0 -49.23599184005127,-25.3585042505706,0 -49.235184486275,-25.35823513654214,0 -49.23423385790619,-25.35782773016558,0 -49.234406608678,-25.35739553217803,0 -49.23477702144237,-25.35646949397193,0 -49.2357974857652,-25.35544902695091,0 -49.23599935028966,-25.35524724336551,0 -49.2359992864379,-25.35524722537912,0 -49.23599939075917,-25.35524712015837,0 -49.23570044801721,-25.35516170974506,0 -49.23504884153078,-25.35497524611066,0 -49.23382633102035,-25.35443224355316,0 -49.2338262779603,-25.35443221477487,0 -49.2326039023481,-25.3541605808461,0 -49.2322588171906,-25.35422959931651,0 -49.23192481347934,-25.35429625346927,0 -49.23138131179798,-25.35497525780187,0 -49.23138131449599,-25.3557902612115,0 -49.23089850985832,-25.35611242804606,0 -49.23056662045309,-25.35633368824909,0 -49.22981934948336,-25.3567073259822,0 -49.22948030327325,-25.35687677174559,0 -49.22913511289511,-25.35701494988001,0 -49.22880097158749,-25.35714860712244,0 -49.22880096888957,-25.3564695128577,0 -49.22880079621967,-25.35646936896615,0 -49.22880079621967,-25.35646927183939,0 -49.22798628743715,-25.35579027200339,0 -49.22749714887431,-25.35572058084006,0 -49.22703531462793,-25.35565460657472,0 -49.22668133067884,-25.3558905958742,0 -49.22622027434608,-25.35619777910415,0 -49.22526976918448,-25.35687678523539,0 -49.22506822661724,-25.35607026153326,0 -49.22574752502817,-25.35575701957077,0 -49.22664452682341,-25.35449701182756,0 -49.22696852827494,-25.3542280102144,0 -49.22749053256194,-25.35412400811646,0 -49.22781453401348,-25.35376500505083,0 -49.22823453179813,-25.35238899825362,0 -49.22912053218664,-25.35078498993528,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50031">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Muito densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4113700</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4113700004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>488287</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Londrina</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>24,65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.1421279051786,-23.34013009163033,0 -51.1402361551743,-23.33746415754479,0 -51.13836421993274,-23.33684869211334,0 -51.1355554105537,-23.33499975793239,0 -51.1372909806941,-23.33302342938765,0 -51.14103084020098,-23.33055158518732,0 -51.13902264597823,-23.32734429969963,0 -51.13153997449012,-23.32932557991154,0 -51.12766041789389,-23.32562600283768,0 -51.12685534210034,-23.3222941468573,0 -51.12926066165016,-23.32192190307325,0 -51.13446897736138,-23.31796787901425,0 -51.13927323487178,-23.31129865960543,0 -51.14033443668478,-23.30376869906615,0 -51.1444705761561,-23.29784046796317,0 -51.14847177325363,-23.29104826536513,0 -51.15528483292866,-23.28980740149035,0 -51.15969446163001,-23.290049828137,0 -51.16623982550749,-23.2885619097043,0 -51.16944627012924,-23.28831162568093,0 -51.17332301184747,-23.28978850943213,0 -51.17639845762267,-23.29151305388427,0 -51.18080684346097,-23.2907674754386,0 -51.18722080289768,-23.29100680482014,0 -51.19403760375235,-23.29260306457974,0 -51.19751934074492,-23.29778262896514,0 -51.19405174379284,-23.30235373273849,0 -51.19232007401212,-23.30618208103817,0 -51.19112549734376,-23.31186114867302,0 -51.18966055658939,-23.31544228683202,0 -51.18525483094561,-23.31865663559518,0 -51.17924776527212,-23.3238475161499,0 -51.17510833248349,-23.32669099529318,0 -51.16949850994826,-23.32953596371362,0 -51.1644211067486,-23.33077563418813,0 -51.16134878252024,-23.33225994184267,0 -51.15507255875156,-23.33720331907784,0 -51.15159856672045,-23.33831755391196,0 -51.14718776620236,-23.33844518659601,0 -51.14287815560232,-23.3404968072818,0 -51.14251186622954,-23.34067117863197,0 -51.1421279051786,-23.34013009163033,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50032">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4106902</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4106902013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>1,32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41010</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.29037651966054,-25.5648923388103,0 -49.29066107235053,-25.56376146921633,0 -49.29395317739716,-25.56516922028317,0 -49.29603277059579,-25.56529918760737,0 -49.29746249569757,-25.56659892290185,0 -49.30006198966902,-25.5672487838043,0 -49.30240153730107,-25.56867849002026,0 -49.30474108043649,-25.56893843096378,0 -49.30708062447116,-25.56958829276545,0 -49.30487106394827,-25.57114798788922,0 -49.30253152171224,-25.57127796960253,0 -49.29954210688271,-25.57101803135703,0 -49.29889223608775,-25.57166790395053,0 -49.30136175823851,-25.57309760926717,0 -49.3033113805157,-25.57413739552436,0 -49.30539097821093,-25.5751771799828,0 -49.30617083341713,-25.57725676149033,0 -49.30357134124431,-25.57699682234545,0 -49.30071189733616,-25.57595703968559,0 -49.29889224957759,-25.57491725342845,0 -49.29759250169252,-25.57439736254815,0 -49.29694264168944,-25.57751674020534,0 -49.29772249959365,-25.58024619160835,0 -49.29746255865014,-25.58232577671311,0 -49.29525299093275,-25.58206583576964,0 -49.29408321306971,-25.58050615143765,0 -49.29512300112555,-25.57842656453425,0 -49.29551291478913,-25.57582708315329,0 -49.29395322146388,-25.57608703578796,0 -49.29187362466803,-25.57517722494879,0 -49.29291341722035,-25.57413742969851,0 -49.29473305958294,-25.57387747526525,0 -49.29512297594454,-25.57205783829858,0 -49.29460307067512,-25.57023820402986,0 -49.29213355392028,-25.57023821212374,0 -49.28927660293277,-25.5692636213189,0 -49.28963814838181,-25.56782676729142,0 -49.29135369781483,-25.56815863061621,0 -49.29291339383793,-25.56841857335832,0 -49.2933033137968,-25.56750875442532,0 -49.29037651966054,-25.5648923388103,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50033">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4106902</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4106902020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>3,89</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41010</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.22912053218664,-25.35078498993528,0 -49.23085154726101,-25.35094398467709,0 -49.23194755463584,-25.35046197863738,0 -49.23285256219594,-25.3505549766308,0 -49.23375057123178,-25.35114297586756,0 -49.23438157784744,-25.35131597395292,0 -49.23483858093573,-25.35115497192436,0 -49.23610159241441,-25.35162497021616,0 -49.23700760002066,-25.35163596712613,0 -49.23810260734939,-25.35115296193953,0 -49.2388296129962,-25.35108095861932,0 -49.23954962011874,-25.35150295829482,0 -49.24018062583519,-25.35159195610385,0 -49.24100163132015,-25.35135295317616,0 -49.24293064113613,-25.34989394075268,0 -49.24647966720283,-25.34906792604386,0 -49.24792168064101,-25.34958092362064,0 -49.24919668907592,-25.34910191681991,0 -49.25010069748913,-25.34936091527391,0 -49.25183370905836,-25.34867890720574,0 -49.25214082124189,-25.34873842523803,0 -49.2521124449333,-25.34877896937388,0 -49.25148277650885,-25.3496784991633,0 -49.25148277920681,-25.35035759342804,0 -49.25243351819227,-25.35130832162162,0 -49.25336327959155,-25.35177319647579,0 -49.25433498716984,-25.35225917212307,0 -49.25435586583051,-25.35236340804482,0 -49.25447081537579,-25.35293814048276,0 -49.25447098444835,-25.35293814048276,0 -49.25447099164279,-25.35293817465691,0 -49.25610050473443,-25.35293816926105,0 -49.25610051102967,-25.3529381350868,0 -49.25610064772667,-25.3529381350868,0 -49.25619324732048,-25.35247512992328,0 -49.25623650291226,-25.35225916582778,0 -49.25684370807056,-25.35247985406193,0 -49.25773047917825,-25.35280231137745,0 -49.25773048367472,-25.35375304226898,0 -49.25760069081912,-25.35404507731835,0 -49.25718702156377,-25.35497517326547,0 -49.25710222089072,-25.3555703571862,0 -49.25705139480596,-25.35592614517532,0 -49.25725025289682,-25.35682098589967,0 -49.25732300445304,-25.35714856125708,0 -49.25664394526176,-25.35809924718245,0 -49.25667911235109,-25.3583454087136,0 -49.25677953424804,-25.35905019031389,0 -49.25711667389527,-25.35930265429403,0 -49.2573230476205,-25.35945743301409,0 -49.25827509601885,-25.35850538191772,0 -49.25922454807437,-25.35755617717581,0 -49.2600689467244,-25.35797817595199,0 -49.26031106850098,-25.3580992354913,0 -49.26166926512434,-25.35877832525944,0 -49.26286834200033,-25.35889822827051,0 -49.26302746534515,-25.35891415796192,0 -49.26343492118464,-25.36000068828106,0 -49.26302751300926,-25.3613587311205,0 -49.26237794258788,-25.36177221421627,0 -49.26153345940156,-25.36230961399747,0 -49.26153346209958,-25.36298870826221,0 -49.26132659284792,-25.36319557841318,0 -49.26058258461849,-25.36393919723611,0 -49.258953071527,-25.36393920263197,0 -49.25851793275638,-25.36359147976293,0 -49.25827379919645,-25.36339617489347,0 -49.2566439668455,-25.36339618028944,0 -49.2563306592325,-25.36410112646571,0 -49.25610056678767,-25.36461867820941,0 -49.25542160562259,-25.3652976555623,0 -49.25542154806594,-25.36529771941417,0 -49.25611101511118,-25.36621685712214,0 -49.25623651999928,-25.36638419487463,0 -49.25664396864414,-25.36733489428991,0 -49.25610056498903,-25.36828572860338,0 -49.25460655724669,-25.36923623736237,0 -49.25365286218982,-25.3693423798469,0 -49.25338455215525,-25.36937219237274,0 -49.25365603769586,-25.36638422994815,0 -49.25284102799101,-25.36556922923643,0 -49.25257599868337,-25.36537052043315,0 -49.25229775383821,-25.36516183904757,0 -49.25177415325453,-25.36455097904428,0 -49.25148301213125,-25.36421122776579,0 -49.25148291950109,-25.36421120977946,0 -49.25148283406548,-25.36421110995468,0 -49.25110963430205,-25.36413647162078,0 -49.25012456189893,-25.36393924400085,0 -49.2498529972179,-25.36312456524644,0 -49.24937531691722,-25.36300514696984,0 -49.24876648398595,-25.36285273166811,0 -49.24841894277995,-25.36331626473373,0 -49.2483589912743,-25.36339621626235,0 -49.24835898318042,-25.36339623514812,0 -49.24930949643607,-25.36475423751796,0 -49.24938573736182,-25.36481140022579,0 -49.25039628306195,-25.36556929758496,0 -49.24930950003329,-25.36584074175664,0 -49.24875586838857,-25.36541490017748,0 -49.24754407330022,-25.36448276097059,0 -49.24678818412735,-25.3638780559275,0 -49.24618596570957,-25.36339624234262,0 -49.24532410582264,-25.36237777091731,0 -49.24469185544473,-25.36163057549061,0 -49.24442316859427,-25.3614626477829,0 -49.24360543484289,-25.36095124110688,0 -49.24318523650942,-25.36021638707643,0 -49.24306201679855,-25.36000075483094,0 -49.2430619268664,-25.36000074044176,0 -49.24129636343628,-25.35972912360012,0 -49.24035809445047,-25.36055011109869,0 -49.24020990596233,-25.36067975106954,0 -49.24020991855286,-25.36067976545877,0 -49.24020981243281,-25.36067985808893,0 -49.24116041831861,-25.36176625261038,0 -49.24109379384345,-25.36230048767732,0 -49.24102474389679,-25.36285290523728,0 -49.24091181962473,-25.36294705436302,0 -49.24020982412407,-25.36353205346143,0 -49.23924662053508,-25.36375433349565,0 -49.2384444045855,-25.36393927008123,0 -49.23764924111941,-25.36384015130182,0 -49.23735761795967,-25.36380369998074,0 -49.23647878246976,-25.36305042064032,0 -49.23640688167217,-25.36298878110733,0 -49.23612323370014,-25.36279024047707,0 -49.23504868235079,-25.36203806280633,0 -49.23464137130219,-25.36163076524753,0 -49.23545627578642,-25.36067987427668,0 -49.23722178705572,-25.36067986798145,0 -49.23722184011574,-25.36067976096217,0 -49.23722188148462,-25.36067976096217,0 -49.23731187664174,-25.36049968791025,0 -49.23776505940992,-25.35959331607859,0 -49.2374607917821,-25.3593325180812,0 -49.23681437078653,-25.35877825511233,0 -49.23599184005127,-25.3585042505706,0 -49.235184486275,-25.35823513654214,0 -49.23423385790619,-25.35782773016558,0 -49.234406608678,-25.35739553217803,0 -49.23477702144237,-25.35646949397193,0 -49.2357974857652,-25.35544902695091,0 -49.23599935028966,-25.35524724336551,0 -49.2359992864379,-25.35524722537912,0 -49.23599939075917,-25.35524712015837,0 -49.23570044801721,-25.35516170974506,0 -49.23504884153078,-25.35497524611066,0 -49.23382633102035,-25.35443224355316,0 -49.2338262779603,-25.35443221477487,0 -49.2326039023481,-25.3541605808461,0 -49.2322588171906,-25.35422959931651,0 -49.23192481347934,-25.35429625346927,0 -49.23138131179798,-25.35497525780187,0 -49.23138131449599,-25.3557902612115,0 -49.23089850985832,-25.35611242804606,0 -49.23056662045309,-25.35633368824909,0 -49.22981934948336,-25.3567073259822,0 -49.22948030327325,-25.35687677174559,0 -49.22913511289511,-25.35701494988001,0 -49.22880097158749,-25.35714860712244,0 -49.22880096888957,-25.3564695128577,0 -49.22880079621967,-25.35646936896615,0 -49.22880079621967,-25.35646927183939,0 -49.22798628743715,-25.35579027200339,0 -49.22749714887431,-25.35572058084006,0 -49.22703531462793,-25.35565460657472,0 -49.22668133067884,-25.3558905958742,0 -49.22622027434608,-25.35619777910415,0 -49.22526976918448,-25.35687678523539,0 -49.22506822661724,-25.35607026153326,0 -49.22574752502817,-25.35575701957077,0 -49.22664452682341,-25.35449701182756,0 -49.22696852827494,-25.3542280102144,0 -49.22749053256194,-25.35412400811646,0 -49.22781453401348,-25.35376500505083,0 -49.22823453179813,-25.35238899825362,0 -49.22912053218664,-25.35078498993528,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50034">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Muito densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4100400</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4100400007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Almirante Tamandaré</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>1,57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41010</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.23260387087186,-25.34628309169131,0 -49.2385161686862,-25.34412580156442,0 -49.24583994975377,-25.34146259152527,0 -49.25382954299897,-25.342128362334,0 -49.25682563979143,-25.34212835244142,0 -49.26048754696268,-25.34512442405287,0 -49.26277889902696,-25.34762405190833,0 -49.25936776870753,-25.34839788165687,0 -49.25719375029127,-25.34808188686947,0 -49.2557347405658,-25.34864289385445,0 -49.25401272590648,-25.34853989899705,0 -49.25319072127473,-25.34894190314623,0 -49.25214082124189,-25.34873842523803,0 -49.25243350650101,-25.34832030793581,0 -49.25284096234049,-25.34764121277163,0 -49.25284095424661,-25.34764116240967,0 -49.25256944892084,-25.34614715376807,0 -49.25161843923951,-25.3457396556604,0 -49.25080343313186,-25.34573965835853,0 -49.25080343582988,-25.34655466086878,0 -49.25017896728543,-25.34676290428456,0 -49.24958129404138,-25.34696213019799,0 -49.24740818483974,-25.34696213649329,0 -49.24564253327624,-25.34696214278864,0 -49.24374106160065,-25.34696214908388,0 -49.24374102922508,-25.34696218595605,0 -49.2437408799376,-25.34696218595605,0 -49.24277272288271,-25.34805153295184,0 -49.24265451149643,-25.34818452199806,0 -49.24196985762274,-25.34852684983423,0 -49.24102486620456,-25.34899920255111,0 -49.23993835567046,-25.34845620449011,0 -49.23993812544404,-25.34845616671862,0 -49.23912334776423,-25.34832020631239,0 -49.2391232947042,-25.34832036639165,0 -49.23912320836934,-25.34832035200253,0 -49.23882696089549,-25.34920910341731,0 -49.23857986227073,-25.34995017895744,0 -49.23695010546294,-25.34995018435347,0 -49.23613529540751,-25.34995018705132,0 -49.23504881724904,-25.3488637214835,0 -49.23423380574541,-25.34777722084203,0 -49.23423370951804,-25.34777709313823,0 -49.23260387087186,-25.34628309169131,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50035">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Muito densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4113700</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4113700004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Londrina</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>24,65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Londrina</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41020</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.1421279051786,-23.34013009163033,0 -51.1402361551743,-23.33746415754479,0 -51.13836421993274,-23.33684869211334,0 -51.1355554105537,-23.33499975793239,0 -51.1372909806941,-23.33302342938765,0 -51.14103084020098,-23.33055158518732,0 -51.13902264597823,-23.32734429969963,0 -51.13153997449012,-23.32932557991154,0 -51.12766041789389,-23.32562600283768,0 -51.12685534210034,-23.3222941468573,0 -51.12926066165016,-23.32192190307325,0 -51.13446897736138,-23.31796787901425,0 -51.13927323487178,-23.31129865960543,0 -51.14033443668478,-23.30376869906615,0 -51.1444705761561,-23.29784046796317,0 -51.14847177325363,-23.29104826536513,0 -51.15528483292866,-23.28980740149035,0 -51.15969446163001,-23.290049828137,0 -51.16623982550749,-23.2885619097043,0 -51.16944627012924,-23.28831162568093,0 -51.17332301184747,-23.28978850943213,0 -51.17639845762267,-23.29151305388427,0 -51.18080684346097,-23.2907674754386,0 -51.18722080289768,-23.29100680482014,0 -51.19403760375235,-23.29260306457974,0 -51.19751934074492,-23.29778262896514,0 -51.19405174379284,-23.30235373273849,0 -51.19232007401212,-23.30618208103817,0 -51.19112549734376,-23.31186114867302,0 -51.18966055658939,-23.31544228683202,0 -51.18525483094561,-23.31865663559518,0 -51.17924776527212,-23.3238475161499,0 -51.17510833248349,-23.32669099529318,0 -51.16949850994826,-23.32953596371362,0 -51.1644211067486,-23.33077563418813,0 -51.16134878252024,-23.33225994184267,0 -51.15507255875156,-23.33720331907784,0 -51.15159856672045,-23.33831755391196,0 -51.14718776620236,-23.33844518659601,0 -51.14287815560232,-23.3404968072818,0 -51.14251186622954,-23.34067117863197,0 -51.1421279051786,-23.34013009163033,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50036">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4109807</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4109807004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Ibiporã</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Londrina</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41020</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.02344568327163,-23.27583212215461,0 -51.02441498516339,-23.27483681186931,0 -51.02624608219088,-23.27413990383343,0 -51.02872357773089,-23.27394043780095,0 -51.03044714731795,-23.2742386619845,0 -51.03206317237743,-23.27523350102513,0 -51.03044764464306,-23.27642801653957,0 -51.0280776810401,-23.27593087760783,0 -51.02506156354025,-23.27622993726169,0 -51.02344568327163,-23.27583212215461,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50037">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Pouco densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4117503</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4117503004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Paiçandu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Maringá</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41030</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-52.0404931220599,-23.44127178616395,0 -52.0450393254045,-23.43941147645842,0 -52.045404173164,-23.43915921212789,0 -52.04645203803102,-23.43963389588748,0 -52.04628805385056,-23.44297038607436,0 -52.04546576503299,-23.44727679508793,0 -52.04880566724761,-23.44857098336405,0 -52.04701826737908,-23.45112841334554,0 -52.03929543103919,-23.44898570752429,0 -52.04004204190665,-23.44713749010305,0 -52.0415647919815,-23.44721510699145,0 -52.04155928723122,-23.4465129568074,0 -52.03898395354651,-23.44565238834701,0 -52.0404931220599,-23.44127178616395,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50038">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4115200</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4115200003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>318952</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Maringá</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,07</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-52.02763538886201,-23.44653331655923,0 -52.02803811516685,-23.4449349137152,0 -52.02965460427652,-23.44483648291731,0 -52.02981090824676,-23.44564302910243,0 -52.02763538886201,-23.44653331655923,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50039">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Muito densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4101804</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4101804004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Araucária</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Curitiba</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41010</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.34427488637687,-25.5504556479097,0 -49.34545726554035,-25.54832837715281,0 -49.34569526392522,-25.54736937249845,0 -49.34611055106103,-25.54249898154268,0 -49.34611055465831,-25.54349255343857,0 -49.34611055915491,-25.54459365367416,0 -49.34611056365156,-25.54569475301042,0 -49.3461105699468,-25.54723629351997,0 -49.34589035205801,-25.5481171740683,0 -49.3452296920965,-25.54877783582833,0 -49.34430009257517,-25.55045112342049,0 -49.34427488637687,-25.5504556479097,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_50040">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Tipo</td>
+
+<td>Densa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GEOCODIGO</td>
+
+<td>4115200</td>
+
+</tr>
+
+<tr>
+
+<td>GEOC_URB</td>
+
+<td>4115200003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>POP_2005</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NOME_MUNIC</td>
+
+<td>Maringá</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>PR</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Km2</td>
+
+<td>0,07</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ACP</td>
+
+<td>Maringá</td>
+
+</tr>
+
+<tr>
+
+<td>COD_ACP</td>
+
+<td>41030</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle50</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-52.02763538886201,-23.44653331655923,0 -52.02803811516685,-23.4449349137152,0 -52.02965460427652,-23.44483648291731,0 -52.02981090824676,-23.44564302910243,0 -52.02763538886201,-23.44653331655923,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

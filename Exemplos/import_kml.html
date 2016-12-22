@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>KML Layers</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 11,
+    center: {lat: -25.44794425, lng: -49.21475886}
+  });
+
+  var ctaLayer = new google.maps.KmlLayer({
+    //url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
+	url: 'https://drive.google.com/open?id=0BxtmjIeXvkI6Z21Eb1YxMm1NYjQ/Eixo_PR_SC.kml',
+    map: map
+  });
+}
+
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASUzIFtvVdbm17VTVv_V_1nrffhxecYGc&callback=initMap">
+    </script>
+  </body>
+</html>
